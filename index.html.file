@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>FullThrottleLabsTest</title>
+  <base href="https://Richasharma9180.github.io/Throttle_loan_calculator/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link rel="stylesheet" href="styles.c1c337e58572f34f6f65.css"></head>
+<body>
+  <app-root></app-root>
+<script type="text/javascript" src="runtime.0898c0a6e3519fed61c9.js"></script><script type="text/javascript" src="polyfills.9d3a8743be9f041e6ba8.js"></script><script type="text/javascript" src="main.4b3df06a4e8048d632b2.js"></script></body>
+</html>
